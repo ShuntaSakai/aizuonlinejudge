@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# C/C++
+*.out
+a.out
+*.exe
+
+# editors
+.vscode/
+.idea/
+
+# build
+build/
