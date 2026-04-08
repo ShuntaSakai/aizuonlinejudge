@@ -117,27 +117,27 @@ aizuonlinejudge/
 
 ### ALDS1_11
 
-- [x] `ALDS1_11_A`
+- [ ] `ALDS1_11_A`
 - [ ] `ALDS1_11_B`
 - [ ] `ALDS1_11_C`
-- [x] `ALDS1_11_D`
+- [ ] `ALDS1_11_D`
 
 ### ALDS1_12
 
-- [x] `ALDS1_12_A`
-- [x] `ALDS1_12_B`
-- [x] `ALDS1_12_C`
+- [ ] `ALDS1_12_A`
+- [ ] `ALDS1_12_B`
+- [ ] `ALDS1_12_C`
 
 ### ALDS1_13
 
-- [x] `ALDS1_13_A`
-- [x] `ALDS1_13_B`
-- [x] `ALDS1_13_C`
+- [ ] `ALDS1_13_A`
+- [ ] `ALDS1_13_B`
+- [ ] `ALDS1_13_C`
 
 ### ALDS1_14
 
-- [x] `ALDS1_14_A`
-- [x] `ALDS1_14_B`
+- [ ] `ALDS1_14_A`
+- [ ] `ALDS1_14_B`
 - [ ] `ALDS1_14_C`
 - [ ] `ALDS1_14_D`
 
